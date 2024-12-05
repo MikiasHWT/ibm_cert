@@ -22,6 +22,7 @@ executing==2.1.0
 fastjsonschema==2.21.1
 fonttools==4.55.0
 fqdn==1.5.1
+greenlet==3.1.1
 h11==0.14.0
 httpcore==1.0.7
 httpx==0.28.0
@@ -29,6 +30,7 @@ idna==3.10
 ipykernel==6.29.5
 ipython==8.29.0
 ipython-genutils==0.2.0
+ipython-sql==0.5.0
 isoduration==20.11.0
 jedi==0.19.2
 Jinja2==3.1.4
@@ -70,6 +72,7 @@ pandocfilters==1.5.1
 parso==0.8.4
 pillow==11.0.0
 platformdirs==4.3.6
+prettytable==3.12.0
 prometheus_client==0.21.1
 prompt_toolkit==3.0.48
 psutil==6.1.0
@@ -98,6 +101,8 @@ setuptools==75.6.0
 six==1.16.0
 sniffio==1.3.1
 soupsieve==2.6
+SQLAlchemy==2.0.36
+sqlparse==0.5.2
 stack-data==0.6.3
 stdlib-list==0.11.0
 terminado==0.18.1
@@ -106,6 +111,7 @@ tinycss2==1.4.0
 tornado==6.4.2
 traitlets==5.14.3
 types-python-dateutil==2.9.0.20241003
+typing_extensions==4.12.2
 tzdata==2024.2
 uri-template==1.3.0
 urllib3==2.2.3
